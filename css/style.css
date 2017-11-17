@@ -22,7 +22,7 @@ body {
 #content {
   padding: 20px;
   background: rgba(127,47,33,.85);
-  color: #ccc;
+  color: #ddd;
 }
 
 h1, h2 {
@@ -41,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Helvetica', sans-serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
