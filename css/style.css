@@ -22,7 +22,7 @@ body {
 #content {
   padding: 20px;
   background: rgba(127,47,33,.85);
-  color: white;
+  color: #ccc;
 }
 
 h1, h2 {
